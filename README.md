@@ -1,7 +1,7 @@
 <!-- 🔥 Banner Image -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Rafi%20Wol%20Korim%20Rafi&fontSize=35&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Tuhin%20Islam&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ---
